@@ -4,7 +4,7 @@ using AntiCaptcha.NetCore.Helper;
 using Newtonsoft.Json.Linq;
 using System.IO;
 
-namespace AntiCaptcha.Api
+namespace AntiCaptcha.NetCore.Api
 {
     public class ImageToText : AnticaptchaBase, IAnticaptchaTaskProtocol
     {

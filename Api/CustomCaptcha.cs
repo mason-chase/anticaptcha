@@ -1,7 +1,5 @@
-﻿using ProxyTypeOption.ApiResponse;
-using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json.Linq;
 using AntiCaptcha.NetCore.ApiResponse;
-using AntiCaptcha.NetCore;
 
 namespace AntiCaptcha.NetCore.Api
 {

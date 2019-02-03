@@ -4,7 +4,7 @@ using AntiCaptcha.NetCore.ApiResponse;
 using AntiCaptcha.NetCore.Helper;
 using Newtonsoft.Json.Linq;
 
-namespace AntiCaptcha.Api
+namespace AntiCaptcha.NetCore.Api
 {
     internal class FunCaptcha : AnticaptchaBase, IAnticaptchaTaskProtocol
     {
